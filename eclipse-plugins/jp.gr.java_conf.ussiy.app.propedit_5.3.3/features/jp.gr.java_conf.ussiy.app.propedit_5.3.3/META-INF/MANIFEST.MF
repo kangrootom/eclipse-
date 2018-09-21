@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: 11.3-b02 (Sun Microsystems Inc.)
+
+Name: license/gpl.html
+SHA1-Digest: d1ZqRM+fIpRzUkJEq69wUOy5opY=
+
+Name: feature_ja.properties
+SHA1-Digest: 8YdeH5vE+J0aCk/K3Wq2BkkuXKs=
+
+Name: feature.xml
+SHA1-Digest: CwTjlUutzCA/QQ9MlipzDCXzqlI=
+
+Name: icons/pe_32.gif
+SHA1-Digest: +DzYzQl+mWrRMe1sjf6AKxpw++0=
+
+Name: feature.properties
+SHA1-Digest: hXYs2exALQIGib67D99qCmyh//E=
+
